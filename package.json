@@ -1,16 +1,16 @@
 
 {
-  "name": "react-native-webview-fullscreen",
-  "version": "1.0.3",
+  "name": "rn-webview-fullscreen",
+  "version": "1.0.0",
   "description": "Android HTML5 fullscreen support for react-native-webview",
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/trabricks/react-native-webview-fullscreen/issues"
+    "url": "https://github.com/umuttaymaz/react-native-webview-fullscreen/issues"
   },
-  "homepage": "https://github.com/trabricks/react-native-webview-fullscreen",
+  "homepage": "https://github.com/umuttaymaz/react-native-webview-fullscreen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trabricks/react-native-webview-fullscreen.git"
+    "url": "git+https://github.com/umuttaymaz/react-native-webview-fullscreen.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +23,7 @@
     "android",
     "fullscreen"
   ],
-  "author": "creamcookie",
+  "author": "umuttaymaz",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "*",
