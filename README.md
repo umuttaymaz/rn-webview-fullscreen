@@ -12,7 +12,7 @@ Android HTML5 fullscreen support for react-native-webview
 
 ## Getting started
 
-`$ npm install react-native-webview react-native-webview-fullscreen --save`
+`$ npm install react-native-webview rn-webview-fullscreen --save`
 
 
 ### Mostly automatic installation ( <= 0.59 )
