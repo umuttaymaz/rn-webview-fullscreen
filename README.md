@@ -3,7 +3,7 @@
 
 ![platforms](https://img.shields.io/badge/platforms-Android-brightgreen.svg?style=flat-square&colorB=191A17)
 [![npm](https://img.shields.io/npm/v/rn-webview-fullscreen.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview-fullscreen)
-[![npm](https://img.shields.io/npm/dm/rn-webview-fullscreen.svg?style=flat-square&colorB=007ec6)](https://www.npmjs.com/package/react-native-webview-fullscreen)
+[![npm](https://img.shields.io/npm/dm/rn-webview-fullscreen.svg?style=flat-square&colorB=007ec6)](https://www.npmjs.com/package/rn-webview-fullscreen)
 [![github issues](https://img.shields.io/github/issues/umuttaymaz/rn-webview-fullscreen.svg?style=flat-square)](https://github.com/trabricks/react-native-webview-fullscreen/issues)
 [![github closed issues](https://img.shields.io/github/issues-closed/umuttaymaz/rn-webview-fullscreen.svg?style=flat-square&colorB=44cc11)](https://github.com/trabricks/react-native-webview-fullscreen/issues?q=is%3Aissue+is%3Aclosed)
 
